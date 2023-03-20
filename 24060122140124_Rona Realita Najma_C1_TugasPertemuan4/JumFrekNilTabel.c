@@ -1,7 +1,7 @@
 /* Nama File            : JumFrekBilTabel.c */
 /* Deskripsi            : jumlmah dari nilai yang frekuensinya lebih dari 1 */
 /* Pembuat              : Rona Realita Najma - 24060122140124 */
-/* Tanggal pembuatan    : 2 Maret 2023*/
+/* Tanggal pembuatan    : 20 Maret 2023*/
 
 #include <stdio.h>
 #include <stdlib.h>
